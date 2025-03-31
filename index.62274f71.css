@@ -1,0 +1,13 @@
+.stars__star {
+  background-image: url("star.fa806e3c.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}
+
+.stars__star--active {
+  background-image: url("star-active.2be54011.svg");
+}
+/*# sourceMappingURL=index.62274f71.css.map */
